@@ -1,9 +1,32 @@
-character_name = "John"
-character_age = 35
-is_male = True
+# ex 1
 
-print("There once was a man named " + character_name + ", ")
-print("he was " + str(character_age) + " years old. ")
-print("He really liked the name " + character_name + ", ")
-print("but didn't like being " + str(character_age) + ".")
-print("is he male? " + str(is_male))
+# full_name = 'John Smith'
+# age = 20
+# is_new_patient = True
+# print(full_name)
+# print(age)
+# print(is_new_patient)
+
+# ex 2
+
+# name = input('What is your name? ')
+# color = input('What is your favourite color? ')
+# print(name + ' likes ' + color)
+
+# ex 3
+
+# weight_lbs = input('Enter your weight in lbs: ')
+# weight_kg = int(weight_lbs) / 2.205
+# print('Your weight in kg is ' + str(weight_kg))
+
+# ex 4
+
+# has_good_credit = True
+# price = 1_000_000
+# if has_good_credit:
+#     percentage = .1
+# else:
+#     percentage = .2
+# down_payment = price * percentage
+# print(down_payment)
+
